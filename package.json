@@ -1,0 +1,20 @@
+{
+	"name": "left-pad",
+	"version": "1.0.0",
+	"description": "Left string padding",
+	"main": "leftpad.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/parnissolle/left-pad.git"
+	},
+	"keywords": [],
+	"author": "Pierre Arnissolle",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/parnissolle/left-pad/issues"
+	},
+	"homepage": "https://github.com/parnissolle/left-pad#readme"
+}
