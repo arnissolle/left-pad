@@ -10,5 +10,5 @@ You can download archive from this repository, or import via CDN (MaxCDN) like t
 
 Or via npm:
 ```
-npm install parnissolle/left-pad@1.0.0 --save-dev
+npm install parnissolle/left-pad --save-dev
 ```
