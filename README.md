@@ -12,3 +12,7 @@ Or via npm:
 ```sh
 npm install parnissolle/left-pad --save-dev
 ```
+
+## Getting started
+
+Coming soon ...
