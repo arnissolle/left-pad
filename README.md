@@ -5,7 +5,7 @@ Left string padding
 
 You can download archive from this repository, or import via CDN (MaxCDN) like this:
 ```js
-<script src="https://cdn.rawgit.com/parnissolle/left-pad/master/js/leftpad.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/parnissolle/left-pad/js/leftpad.js"></script>
 ```
 
 Or via npm:
